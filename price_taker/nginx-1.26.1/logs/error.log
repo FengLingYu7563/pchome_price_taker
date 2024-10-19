@@ -1,0 +1,2 @@
+2024/06/01 00:16:00 [warn] 39908#35444: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2024/06/01 00:16:00 [warn] 35432#30300: conflicting server name "localhost" on 0.0.0.0:80, ignored
